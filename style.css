@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Lemonada", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+
+.motivation-img{
+    border: 5px solid white;
+    width: 100%;
+}
+p{
+    color: white;
+    text-transform: uppercase;
+}
